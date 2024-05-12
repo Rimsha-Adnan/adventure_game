@@ -1,4 +1,5 @@
-<h1><i>ADVENTURE GAME👾</h1>
+<i>
+<h1>ADVENTURE GAME👾</h1>
 <h1>Description✍️</h1>
 <p>Adventure Game is a text-based adventure game built using Node.js. In this game, players embark on an epic journey where they encounter various enemies and must make strategic decisions to emerge victorious.</p>
 <h1>Features🎯</h1>
@@ -17,4 +18,5 @@
   <li>Utilizes Inquirer.js for interactive command-line prompts</li>
   <li>Styled with Chalk for colored text in the terminal</li>
 </ul>
-<h1>THANK YOU🌸 !!!<i/></h1>
+<h1>THANK YOU🌸 !!!</h1>
+<i/>
